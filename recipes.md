@@ -1,6 +1,8 @@
 # Recipes
 
-The recipes for the plugin are extremely simple so it doesn't take up a grip of time prepping to only smoke and be done. The only difference you will find in recipes is within the components used to create your smoking material, but its minor at best. Each recipe will be displayed in a `Crafting Table` grid with a default 3x3 layout.
+The recipes for the plugin are extremely simple so it doesn't take up a grip of time prepping to only smoke and be done. The only difference you will find in recipes is within the components used to create your smoking material, but its minor at best. Each recipe will be displayed in a `Crafting Table` grid with a default 3x3 layout.  
+  
+We are also going to be adding more recipes as time goes on so be sure to stay up-to-date with the plugin on [Spigot](https://www.spigotmc.org/resources/tokedup.102401/) and refer here anytime you need assistance!
 #
 
 **Ground Buds**  
