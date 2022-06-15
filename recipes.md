@@ -3,7 +3,7 @@
 The recipes for the plugin are extremely simple so it doesn't take up a grip of time prepping to only smoke and be done. The only difference you will find in recipes is within the components used to create your smoking material, but its minor at best. Each recipe will be displayed in a `Crafting Table` grid with a default 3x3 layout.
 #
 
-**Ground Buds**
+**Ground Buds**  
 *( Ground Buds are needed for EVERY joint & blunt recipe and must be created before attempting to make the desired item. )*
 
 | Grass | Grass | Empty |
