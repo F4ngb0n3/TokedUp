@@ -1,6 +1,6 @@
 # TokedUp - Minecraft Joints & Blunts
 
-Welcome to **TokedUp**! This is the predecessor to the previous plugin of mine, **Smokd** and includes a myriad of new recipes, new features, and enhanced reactions and effects!
+Welcome to **TokedUp**! This is the predecessor to the previous plugin of mine, **Smokd** and includes a myriad of new recipes, new features, and enhanced reactions and effects, and with **NO PERMISSIONS**!
 
 ### Sections:
 1. [Recipes](recipes.md)
